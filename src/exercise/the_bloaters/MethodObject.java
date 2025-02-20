@@ -15,8 +15,9 @@ public class MethodObject {
 
 	}
 
-	class calculateGamma() {
-		
+	class calculateGamma()
+	{
+
 		private Account account;
 		private int inputVal;
 		private int quantity;
